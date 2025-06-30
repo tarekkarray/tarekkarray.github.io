@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello. I&apos;m Jami Gibbs.</title>
+    <description>I&apos;m a software developer and designer from Chicago creating useful things for the web.</description>
+    <link>https://jamigibbs.github.io/phantom/</link>
+    <atom:link href="https://jamigibbs.github.io/phantom/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 30 Jun 2025 20:58:21 +0200</pubDate>
+    <lastBuildDate>Mon, 30 Jun 2025 20:58:21 +0200</lastBuildDate>
+    <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Phantom</title>
+        <description>
+</description>
+        <pubDate>Sat, 20 Feb 2016 22:15:00 +0100</pubDate>
+        <link>https://jamigibbs.github.io/phantom/theme/development/design/2016/02/20/phantom-jekyll-template.html</link>
+        <guid isPermaLink="true">https://jamigibbs.github.io/phantom/theme/development/design/2016/02/20/phantom-jekyll-template.html</guid>
+        
+        <category>Jekyll</category>
+        
+        <category>Sass</category>
+        
+        <category>Bootstrap</category>
+        
+        
+        <category>theme</category>
+        
+        <category>development</category>
+        
+        <category>design</category>
+        
+      </item>
+    
+      <item>
+        <title>Phantom</title>
+        <description>
+</description>
+        <pubDate>Sat, 20 Feb 2016 22:15:00 +0100</pubDate>
+        <link>https://jamigibbs.github.io/phantom/development/design/2016/02/20/phantom-jekyll-template.html</link>
+        <guid isPermaLink="true">https://jamigibbs.github.io/phantom/development/design/2016/02/20/phantom-jekyll-template.html</guid>
+        
+        <category>Jekyll</category>
+        
+        <category>Sass</category>
+        
+        <category>Bootstrap</category>
+        
+        
+        <category>development</category>
+        
+        <category>design</category>
+        
+      </item>
+    
+      <item>
+        <title>Rescue Themes</title>
+        <description>
+</description>
+        <pubDate>Sat, 20 Feb 2016 16:56:00 +0100</pubDate>
+        <link>https://jamigibbs.github.io/phantom/theme/development/design/2016/02/20/rescue-themes.html</link>
+        <guid isPermaLink="true">https://jamigibbs.github.io/phantom/theme/development/design/2016/02/20/rescue-themes.html</guid>
+        
+        <category>WordPress</category>
+        
+        <category>PHP</category>
+        
+        <category>Sass</category>
+        
+        
+        <category>theme</category>
+        
+        <category>development</category>
+        
+        <category>design</category>
+        
+      </item>
+    
+      <item>
+        <title>Weathercast</title>
+        <description>
+</description>
+        <pubDate>Sat, 20 Feb 2016 16:56:00 +0100</pubDate>
+        <link>https://jamigibbs.github.io/phantom/theme/development/2016/02/20/weathercast.html</link>
+        <guid isPermaLink="true">https://jamigibbs.github.io/phantom/theme/development/2016/02/20/weathercast.html</guid>
+        
+        <category>JavaScript</category>
+        
+        <category>AngularJS</category>
+        
+        <category>API</category>
+        
+        <category>Sass</category>
+        
+        
+        <category>theme</category>
+        
+        <category>development</category>
+        
+      </item>
+    
+      <item>
+        <title>Rescue Themes</title>
+        <description>
+</description>
+        <pubDate>Sat, 20 Feb 2016 16:56:00 +0100</pubDate>
+        <link>https://jamigibbs.github.io/phantom/development/design/2016/02/20/rescue-themes.html</link>
+        <guid isPermaLink="true">https://jamigibbs.github.io/phantom/development/design/2016/02/20/rescue-themes.html</guid>
+        
+        <category>WordPress</category>
+        
+        <category>PHP</category>
+        
+        <category>Sass</category>
+        
+        
+        <category>development</category>
+        
+        <category>design</category>
+        
+      </item>
+    
+      <item>
+        <title>Weathercast</title>
+        <description>
+</description>
+        <pubDate>Sat, 20 Feb 2016 16:56:00 +0100</pubDate>
+        <link>https://jamigibbs.github.io/phantom/development/2016/02/20/weathercast.html</link>
+        <guid isPermaLink="true">https://jamigibbs.github.io/phantom/development/2016/02/20/weathercast.html</guid>
+        
+        <category>JavaScript</category>
+        
+        <category>AngularJS</category>
+        
+        <category>API</category>
+        
+        <category>Sass</category>
+        
+        
+        <category>development</category>
+        
+      </item>
+    
+      <item>
+        <title>Bloc Jams Angular</title>
+        <description>
+</description>
+        <pubDate>Sat, 20 Feb 2016 15:15:00 +0100</pubDate>
+        <link>https://jamigibbs.github.io/phantom/theme/development/2016/02/20/bloc-jams-angular.html</link>
+        <guid isPermaLink="true">https://jamigibbs.github.io/phantom/theme/development/2016/02/20/bloc-jams-angular.html</guid>
+        
+        <category>JavaScript</category>
+        
+        <category>AngularJS</category>
+        
+        <category>Sass</category>
+        
+        <category>Grunt</category>
+        
+        
+        <category>theme</category>
+        
+        <category>development</category>
+        
+      </item>
+    
+      <item>
+        <title>Bloc Jams Angular</title>
+        <description>
+</description>
+        <pubDate>Sat, 20 Feb 2016 15:15:00 +0100</pubDate>
+        <link>https://jamigibbs.github.io/phantom/development/2016/02/20/bloc-jams-angular.html</link>
+        <guid isPermaLink="true">https://jamigibbs.github.io/phantom/development/2016/02/20/bloc-jams-angular.html</guid>
+        
+        <category>JavaScript</category>
+        
+        <category>AngularJS</category>
+        
+        <category>Sass</category>
+        
+        <category>Grunt</category>
+        
+        
+        <category>development</category>
+        
+      </item>
+    
+  </channel>
+</rss>
