@@ -1,85 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Hello. I&apos;m Jami Gibbs.</title>
- <link href="https://jamigibbs.github.io/phantom/atom.xml" rel="self"/>
- <link href="https://jamigibbs.github.io/phantom/"/>
- <updated>2025-06-30T20:58:21+02:00</updated>
- <id>https://jamigibbs.github.io/phantom</id>
+ <title>Hello there I&apos;m Elise Alexandersson.</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2025-07-01T17:18:44+02:00</updated>
+ <id>http://localhost:4000</id>
  <author>
-   <name>Jami Gibbs</name>
+   <name>Elise Alexandersson</name>
    <email></email>
  </author>
 
  
  <entry>
    <title>Phantom</title>
-   <link href="https://jamigibbs.github.io/phantom/theme/development/design/2016/02/20/phantom-jekyll-template.html"/>
+   <link href="http://localhost:4000/development/design/2016/02/20/phantom-jekyll-template.html"/>
    <updated>2016-02-20T22:15:00+01:00</updated>
-   <id>https://jamigibbs.github.io/phantom/theme/development/design/2016/02/20/phantom-jekyll-template</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>Phantom</title>
-   <link href="https://jamigibbs.github.io/phantom/development/design/2016/02/20/phantom-jekyll-template.html"/>
-   <updated>2016-02-20T22:15:00+01:00</updated>
-   <id>https://jamigibbs.github.io/phantom/development/design/2016/02/20/phantom-jekyll-template</id>
+   <id>http://localhost:4000/development/design/2016/02/20/phantom-jekyll-template</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Rescue Themes</title>
-   <link href="https://jamigibbs.github.io/phantom/theme/development/design/2016/02/20/rescue-themes.html"/>
+   <link href="http://localhost:4000/development/design/2016/02/20/rescue-themes.html"/>
    <updated>2016-02-20T16:56:00+01:00</updated>
-   <id>https://jamigibbs.github.io/phantom/theme/development/design/2016/02/20/rescue-themes</id>
+   <id>http://localhost:4000/development/design/2016/02/20/rescue-themes</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Weathercast</title>
-   <link href="https://jamigibbs.github.io/phantom/theme/development/2016/02/20/weathercast.html"/>
+   <link href="http://localhost:4000/development/2016/02/20/weathercast.html"/>
    <updated>2016-02-20T16:56:00+01:00</updated>
-   <id>https://jamigibbs.github.io/phantom/theme/development/2016/02/20/weathercast</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>Rescue Themes</title>
-   <link href="https://jamigibbs.github.io/phantom/development/design/2016/02/20/rescue-themes.html"/>
-   <updated>2016-02-20T16:56:00+01:00</updated>
-   <id>https://jamigibbs.github.io/phantom/development/design/2016/02/20/rescue-themes</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>Weathercast</title>
-   <link href="https://jamigibbs.github.io/phantom/development/2016/02/20/weathercast.html"/>
-   <updated>2016-02-20T16:56:00+01:00</updated>
-   <id>https://jamigibbs.github.io/phantom/development/2016/02/20/weathercast</id>
+   <id>http://localhost:4000/development/2016/02/20/weathercast</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Bloc Jams Angular</title>
-   <link href="https://jamigibbs.github.io/phantom/theme/development/2016/02/20/bloc-jams-angular.html"/>
+   <link href="http://localhost:4000/development/2016/02/20/bloc-jams-angular.html"/>
    <updated>2016-02-20T15:15:00+01:00</updated>
-   <id>https://jamigibbs.github.io/phantom/theme/development/2016/02/20/bloc-jams-angular</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>Bloc Jams Angular</title>
-   <link href="https://jamigibbs.github.io/phantom/development/2016/02/20/bloc-jams-angular.html"/>
-   <updated>2016-02-20T15:15:00+01:00</updated>
-   <id>https://jamigibbs.github.io/phantom/development/2016/02/20/bloc-jams-angular</id>
+   <id>http://localhost:4000/development/2016/02/20/bloc-jams-angular</id>
    <content type="html">
 </content>
  </entry>

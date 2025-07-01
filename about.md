@@ -1,205 +1,50 @@
 ---
 layout: inner
-title: About
+title: Om mig
 permalink: /about/
 ---
-## Markdown
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+![Elise](/img/om/elise.avif){: style="display:block; margin: 0 auto; width:300px;" }
 
-[Link to another page](/index.html).
+<br>
 
-There should be whitespace between paragraphs.
+### UTSTÄLLNINGAR
 
-# Header 1
+* 2024   KÄRLEKSBREV, Brunnans ateljékollektiv, Stockholm
+* 2022   MISTA, FÖRLORA, HITTA TILLBAKA, Galleri Jaktpaviljongen, Malmö
+* 2022   CO-RE-DIS, Galleri Jaktpaviljongen, Folkets park, Malmö
+* 2021   NATTVARD, Gallerinatten, Galleri Pildammstornet, Malmö
+* 2021   SJÄLVPORTRÄTT, Galleri Pildammstornet, Malmö
+* 2021   EN KÄNSLA OM ÖGAT, Al Dente Skulpturpark, Umeå
+* 2021   EVIGA INNEHÅLL MELLAN FINGRARNA, Doors, Kunsthøgskolen, Oslo
+* 2020   FÖRLOSSNINGSPSYKOS, Kulturnatten, Växjö
+* 2019   SKENGRAVID, BA Examensutställning, KMD, Bergen, Norge
+* 2019   NEKROPSI AV EN MYT (EY3) Statens Høstutstillingen 132, Kunstnernes Hus, Oslo
+* 2019   ELLINOR BRINNER, Kulturnatten, Palladium, Växjö
+* 2015   ARKIV EX, Oss Emellan, Landskrona Fotofestival, Landskrona Museum
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### PUBLIKATIONER
 
-## Header 2
+* 2024   BETTET, novell i “Mamma säger att det finns piggelin i himlen” Växjö biblioteks novellsamling
+* 2022   FONTÄNEN, novell i “Ordgläntor från Småland”, Skrivarnätet Småland
+* 2022   Det Okkulte, fotografier i Bøygen fagtidsskrift
+* 2020   REC, dikt i "Mikro" av Ordkonst
+* 2019   SE IKAROS LE, novell i “Malmö 2048”, Svensk sci-fi
+* 2019   ATT TA ANSVAR FÖR EVIGHETEN, text i “Intryck”, Svenska kyrkan
+* 2016   ROSORNA, Radioteater i “Radioteatret - NRK Radio”, Bergen
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### UTBILDNING
 
-### Header 3
+* 2023-2025   Kompletterande Pedagogisk Utbildning (KPU): Bild, Linnéuniversitetet, Växjö
+* 2022-2023   Konstpedagogik, Linnéuniversitetet, Växjö
+* 2020-2022   Litterär Gestaltning, Författarskolan, Lunds universitet
+* 2016-2019   Fri Konst, Fakulteten för Konst, Musik och Design, Bergen, Norge
+* 2015-2016   Fri Konst, Munka Folkhögskola
+* 2014-2015   Experimentell Fotografi, Munka Folkhögskola
 
-{% highlight js %}
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-{% endhighlight %}
+### STIPENDIER
 
-{% highlight ruby %}
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-{% endhighlight %}
+* 2023   Helge Ax:son Johnsons stiftelse
+* 2023   AAA
+* 2022   Gunnar Hallströms Stipendiefond
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
----
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Wide image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-{% highlight txt %}
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-{% endhighlight %}
-
-{% highlight txt %}
-The final element.
-{% endhighlight %}
-
----
-
-## Syntax highlighting
-
-Jekyll has [built in support](https://jekyllrb.com/docs/templates/#code-snippet-highlighting) for syntax highlighting of over 60 languages thanks to [Rouge](http://rouge.jneen.net/).
-
-To render a code block with syntax highlighting, surround your code as follows:
-
-{% highlight markdown %}
-{% raw %}
-{% highlight ruby %}
-def foo
-  puts 'foo'
-end
-{% endhighlight %}
-{% endraw %}
-{% endhighlight %}
-
-[Pygments](http://pygments.org/) styles are present under section 6.0 of `css/style.scss` for customization.
-
-### Examples
-
----
-
-#### Bash
-
-{% highlight bash %}
->_ ssh -i ~/.ssh/id_rsa account@host.com
-account@host:~$
-$ var="my-value"
-$ echo $var
-my-value
-$ logout
-{% endhighlight %}
-
-#### HTML
-
-{% highlight html %}
-<!DOCTYPE html>
-<html>
- <head>
-   <meta charset="UTF-8">
-   <title>title</title>
- </head>
- <body>
-
- </body>
-</html>
-{% endhighlight %}
-
-#### CSS
-
-{% highlight css %}
-/*--------------------------------------------------------------
-	1.0 Defaults
---------------------------------------------------------------*/
-
-@media (min-width: 1200px) {
-  .container {
-    width: 1200px;
-  }
-}
-
-body {
-  background-color: #e9edf0;
-  @extend %opensans;
-  -webkit-font-smoothing: antialiased;
-}
-{% endhighlight %}
-
-#### YAML
-
-{% highlight yaml %}
-### Phantom settings
-paginate: 10
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
-
-#### Phantom Navigation menu
-enable_nav: true
-nav_item:
-  - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
-{% endhighlight %}
