@@ -1,13 +1,11 @@
 ---
 layout: inner
 position: left
-title: 'Phantom'
+title: 'KÄNNER VI NÅGONSIN VARANDRA PÅ RIKTIGT?'
 date: 2016-02-20 21:15:00
 categories: development design
-tags: Jekyll Sass Bootstrap
-featured_image: '/img/posts/04_phantom-jekyll-1130x864-2x.png'
-project_link: 'https://github.com/jamigibbs'
-button_icon: 'flask'
-button_text: 'Visit Project'
-lead_text: "A minimalist Jekyll theme that you are looking at it right now"
+project_link: ''
+youtube_link: '1ktZQ6CDSBg'
+featured_image: '/img/kanner_vi_varandra/kanner_vi_varandra.avif'
+lead_text: "Video 2015"
 ---
