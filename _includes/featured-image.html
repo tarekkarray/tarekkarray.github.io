@@ -2,15 +2,6 @@
   <img class="img-responsive" src="{{ post.featured_image }}" title="{{ post.title }}">
   {% endif %}
 
-  <iframe
-  src="https://www.youtube.com/embed/1ktZQ6CDSBg"
-  width="560" height="315"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
-
-
   {% if post.youtube_link != empty %}
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 0 auto;">
   <iframe src="https://www.youtube.com/embed/{{ post.youtube_link }}"
