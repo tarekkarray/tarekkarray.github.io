@@ -4,7 +4,7 @@
  <title>Hello there I&apos;m Elise Alexandersson.</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2025-07-01T22:28:05+02:00</updated>
+ <updated>2025-07-01T22:28:56+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Elise Alexandersson</name>
@@ -17,33 +17,6 @@
    <link href="http://localhost:4000/development/design/2016/02/20/phantom-jekyll-template.html"/>
    <updated>2016-02-20T22:15:00+01:00</updated>
    <id>http://localhost:4000/development/design/2016/02/20/phantom-jekyll-template</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>Rescue Themes</title>
-   <link href="http://localhost:4000/development/design/2016/02/20/rescue-themes.html"/>
-   <updated>2016-02-20T16:56:00+01:00</updated>
-   <id>http://localhost:4000/development/design/2016/02/20/rescue-themes</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>Weathercast</title>
-   <link href="http://localhost:4000/development/2016/02/20/weathercast.html"/>
-   <updated>2016-02-20T16:56:00+01:00</updated>
-   <id>http://localhost:4000/development/2016/02/20/weathercast</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>Bloc Jams Angular</title>
-   <link href="http://localhost:4000/development/2016/02/20/bloc-jams-angular.html"/>
-   <updated>2016-02-20T15:15:00+01:00</updated>
-   <id>http://localhost:4000/development/2016/02/20/bloc-jams-angular</id>
    <content type="html">
 </content>
  </entry>
