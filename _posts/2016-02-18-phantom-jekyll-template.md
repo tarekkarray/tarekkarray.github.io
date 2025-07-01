@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'KÄNNER VI NÅGONSIN VARANDRA PÅ RIKTIGT?'
 date: 2016-02-20 21:15:00
 categories: development design
