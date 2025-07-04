@@ -42,3 +42,11 @@
   <img class="img-responsive" src="{{ post.second_image }}" title="{{ post.title }}" style="max-width: 400px; max-height: 300px;  display: block; margin: 0 auto;">
   {% endif %}
 
+{% if post.images %}
+  <div class="image-gallery">
+    {% for img in post.images %}
+      <img src="{{ img }}" alt="Image {{ forloop.index }}" class="responsive-img">
+       <br><br>
+    {% endfor %}
+  </div>
+{% endif %}
