@@ -17,7 +17,7 @@ title: "Hello there I'm Elise Alexandersson."
 email: 'info.elisealex@gmail.com'
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://www.elisekonst.se" # the base hostname & protocol for your site, e.g. https://example.com
 instagram_username: 'elisekonst'
 
 # Build settings
