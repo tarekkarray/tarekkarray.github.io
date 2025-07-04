@@ -1,9 +1,14 @@
-  {% if post.featured_image %}
-  <img class="img-responsive" src="{{ post.featured_image }}" title="{{ post.title }}">
+{% if post.featured_image %}
+  {% if post.featured_image_style %}
+    <img class="img-responsive" src="{{ post.featured_image }}" title="{{ post.title }}" style="{{ post.featured_image_style }}">
+  {% else %}
+    <img class="img-responsive" src="{{ post.featured_image }}" title="{{ post.title }}">
   {% endif %}
+{% endif %}
 
+
+<br/>
   {% if post.youtube_link != empty %}
-
   <div style="
   position: relative;
   padding-bottom: 56.25%; /* 16:9 aspect ratio */
@@ -15,7 +20,7 @@
   min-height: 180px; /* 👈 Minimal height (16:9 of 320px) */
 ">
   <iframe
-    src="https://www.youtube.com/embed/1ktZQ6CDSBg"
+    src="https://www.youtube.com/embed/{{post.youtube_link}}"
     style="
       position: absolute;
       top: 0;
@@ -30,5 +35,10 @@
     allowfullscreen>
   </iframe>
 </div>
+  {% endif %}
+
+  <br/>
+    {% if post.second_image %}
+  <img class="img-responsive" src="{{ post.second_image }}" title="{{ post.title }}" style="max-width: 400px; max-height: 300px;  display: block; margin: 0 auto;">
   {% endif %}
 
